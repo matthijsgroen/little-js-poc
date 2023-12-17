@@ -1,0 +1,11 @@
+{
+  "name": "little-js-poc",
+  "packageManager": "yarn@4.0.2",
+  "source": "./src/index.html",
+  "scripts": {
+    "start": "parcel serve"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
